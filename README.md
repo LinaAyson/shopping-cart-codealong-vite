@@ -1,3 +1,2 @@
-# Shopping cart codealong
+# Shopping cart 
 
-Code from the shopping cart codealong from the redux sprint.# shopping-cart-codealong-vite
